@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Lexend";
+}
+*,
+::after,
+::before {
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+button,
+input,
+a {
+  cursor: pointer;
+  outline: none;
+  border: none;
+}
